@@ -1,0 +1,5 @@
+/* YOUR CUSTOM STYLES */
+.box-flex {
+    display: flex;
+    justify-content: space-between;
+}
